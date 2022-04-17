@@ -1,8 +1,0 @@
-#!/bin/bash
-while v in 1..150 ; do
-	for x in "*" ; do
-		if [[ "x" =~ "p[1,15]" ]] ; do
-			mv x 
-		done
-	done
-done
