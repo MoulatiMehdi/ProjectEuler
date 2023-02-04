@@ -1,4 +1,4 @@
-<div align="center" style="font-size:17pt;">
+<div align="center" style="font-size:17px;">
 # Project Euler 
 </div>
 ## What is Project Euler?
